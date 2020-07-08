@@ -15,7 +15,7 @@ An Open Source ALL-In-One Telegram RoBot, that can do lot of things.
 
 HeroKu DeploY
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)]
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Hashimkp/UrlUploaderV1/tree/master)
 
 #### The Hard Way
 
